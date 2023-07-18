@@ -28,5 +28,5 @@ Learn to Aggregate and Merge Data in Pandas while Analysing a Dataset of LEGO Pi
 You can download the completed code for this repository
 I've attached the completed notebook to this repo as a link. If you have any issues, upload it to google drive and open it as a Google Colab Notebook.
 
-### Google Colab Notebook link
+### Google Colab Notebook link 👇
 https://colab.research.google.com/drive/170BAxE0tOGcYZGt0qq3atcnpu4hXvcvD?usp=sharing
